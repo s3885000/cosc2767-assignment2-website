@@ -32,11 +32,11 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">Your name</span>
+      <span class="badge badge-primary">Nguyen Phuoc Quang Liem</span>
       <br>
-      <span class="badge badge-secondary">Your student ID (sID)</span>
+      <span class="badge badge-secondary">s3885000</span>
       <br>
-      <span class="badge badge-success">Your Major (and Minor if possible)</span>
+      <span class="badge badge-success">IT</span>
       <br>
       <span class="badge badge-danger">Your Hobby</span>
       <br>
